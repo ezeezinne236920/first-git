@@ -1,0 +1,8 @@
+.mainnavv {
+  display: flex;
+  justify-content: space-around;
+}
+html body {
+  color: white;
+  background: #000;
+}
